@@ -11,7 +11,7 @@ import redis.clients.jedis.Jedis;
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class,args);
-
+// hello
 //        Jedis jedis = new Jedis("localhost");
 //        System.out.println("Jedis info :    " + jedis.info());
 
